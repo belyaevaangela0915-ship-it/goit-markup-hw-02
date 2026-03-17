@@ -63,7 +63,7 @@ a {text-decoration: none;
     text-align: center;
 }
 
-.daniel-center{
+.daniel-centr{
     text-align: center;
 }
 
@@ -78,4 +78,8 @@ footer{
 .footer-span{
     color: #4d5ae5;
 
+}
+
+.footer-text{
+    color: #ffff;
 }
