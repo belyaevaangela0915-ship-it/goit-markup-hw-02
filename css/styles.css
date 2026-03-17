@@ -1,3 +1,81 @@
-.header-span{color: #4d5ae5;};
+.header-span{color: #4d5ae5;
+} 
+
+ul {list-style-type: none;
+}
+
+a {text-decoration: none;
+}
+
+.main-section {background-color: #2e2f42;
+}
+
+.main-button {background-color: #4d5ae5;
+}
+
+.section-h1 {
+    color: #ffff;
+    text-align: center;
+}
+.button-text{
+    color: #ffff;
+}
+
+.section-ourteam {
+    background-color: #f4f4fd;
+    
+    
+}
+
+.text-ourteam{
+    text-align: center;
+}
+
+.ul-ourteam{
+    
+    border-bottom: 40px;
+    background-color: #f4f4fd;
+    margin-bottom: 8px;
+    
+}
 
 
+
+.line-one{
+    background-color: #ffff;
+    padding-top: 5px;
+}
+.test {
+    
+    background-color: #f4f4fd;
+    padding-left: 5px;
+}
+
+.mark-centr {
+    text-align: center;
+}
+
+.tom-centr {
+    text-align: center;
+}
+
+.camila-centr {
+    text-align: center;
+}
+
+.daniel-center{
+    text-align: center;
+}
+
+footer{
+    background-color: #2e2f42;
+}
+
+.text-footer{
+    color: #ffff
+}
+
+.footer-span{
+    color: #4d5ae5;
+
+}
