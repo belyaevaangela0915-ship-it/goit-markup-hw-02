@@ -75,7 +75,8 @@ color: #4d5ae5;
 
 }
 
-.section-ourteam {
+.section-ourteam,
+.pf-text {
     text-align: center;
 }
 
@@ -120,6 +121,7 @@ color: #404bbf
 .team{
     background-color:#f4f4fd ;
 }
+
 
 
 
