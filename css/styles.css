@@ -6,7 +6,7 @@ font-family: "Roboto", sans-serif;
 body{
 font-family: "Roboto", sans-serif;
 color: #434455;
-background-color: #ffff;
+background-color: #fff;
 }
 
 ul, ol {
@@ -47,10 +47,13 @@ color: #4d5ae5;
 
 .footer-logo .part-logo{
     color: #f4f4fd;
+    font-size: 18px;
+    letter-spacing: 0.03em;
 }
 .text-footer  {
     color: #ffff;
-    font-size: 10;
+    font-size: 16px;
+    letter-spacing: 0.02em;
 }
 
 .main-button{
