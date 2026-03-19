@@ -24,7 +24,7 @@ a {
 .logo {
 font-family: 'Raleway', sans-serif;
 font-weight: 700;
-font-size: 10px;
+font-size: 10;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
@@ -41,7 +41,7 @@ color: #4d5ae5;
 }
 .text-footer  {
     color: #ffff;
-    font-size: 10px;
+    font-size: 10;
 }
 
 .button-text{
@@ -68,7 +68,7 @@ color: #4d5ae5;
 
 .nav-link {
     font-weight: 500;
-    font-size: 16px;
+    font-size: 16;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -104,7 +104,7 @@ color: #404bbf
 }
 
 .address-link{
-    font-size: 16px;
+    font-size: 16;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
