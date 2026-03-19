@@ -31,6 +31,15 @@ text-transform: uppercase;
 color: #4d5ae5;
 }
 
+.main-button {
+  cursor: pointer;
+}
+
+.main-button:hover,
+.main-button:focus {
+  background-color: #404bbf;          /* зміна кольору при наведенні / фокусі */
+}
+
 .header-logo .part-logo{
     color: #2e2f42;
 
