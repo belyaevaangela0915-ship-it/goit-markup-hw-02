@@ -13,6 +13,7 @@ h1 {
     font-size: 56px;
     line-height: 1.1;
     letter-spacing: 0.02em;
+    color: #ffff;
 
 }
 
@@ -65,6 +66,8 @@ color: #4d5ae5;
     color: #ffff;
     font-size: 16px;
     letter-spacing: 0.02em;
+    line-height: 1.5;
+
 }
 
 .main-button{
@@ -85,7 +88,7 @@ color: #4d5ae5;
     background-color: #2e2f42;
 }
 
- footer .section{
+ footer {
     background-color: #2e2f42;
 }
 
@@ -101,6 +104,9 @@ color: #4d5ae5;
 .section-ourteam,
 .pf-text {
     text-align: center;
+    background-color:#f4f4fd ;
+    
+
 }
 
 .flag{
@@ -141,10 +147,24 @@ color: #404bbf
 .card{
     background-color: #ffff;
 }
+
+h3 {
+    font-size: 20px;
+    line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+/*
 .team{
     background-color:#f4f4fd ;
 }
-
+*/
 
 
 
