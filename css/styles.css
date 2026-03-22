@@ -13,7 +13,7 @@ h1 {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
-    color: #ffff;
+    color: #fff;
     
 
 }
@@ -47,7 +47,7 @@ color: #4d5ae5;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color:#ffff;
+  color:#fff;
 }
 
  
@@ -95,11 +95,11 @@ text-transform: uppercase;
 }
 
 .main-button{
-    color: #ffff;
+    color: #fff;
 }
 
 .main-text{
-    color: #ffff;
+    color: #fff;
     text-align: center;
 }
 
@@ -130,11 +130,12 @@ text-transform: uppercase;
 .section-ourteam {
    
     background-color: #f4f4fd;
+    
 }
-
+/*
 .pf-text {
     text-align: center;
-    background-color:#f4f4fd ;
+     background-color:#f4f4fd ; */
     
 
 }
@@ -168,7 +169,8 @@ color: #404bbf;
 }
 
 .card{
-    background-color: #ffff;
+    background-color: #fff;
+    
 }
 
 h2{
@@ -176,6 +178,7 @@ h2{
     letter-spacing: 0.02em;
     text-align: center; 
     line-height: 1.1;
+    color: #2e2f42;
 }
 
 
@@ -183,6 +186,9 @@ h3 {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
+     
+    
 }
 
 p {
@@ -190,9 +196,12 @@ p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+   
 }
 
-
+.team-card{
+    text-align: center; 
+}
 
 
 
