@@ -11,9 +11,10 @@ background-color: #fff;
 
 h1 {
     font-size: 56px;
-    
+    line-height: 1.07;
     letter-spacing: 0.02em;
     color: #ffff;
+    
 
 }
 
@@ -127,7 +128,7 @@ text-transform: uppercase;
 }
 
 .section-ourteam {
-    text-align: center;
+   
     background-color: #f4f4fd;
 }
 
@@ -143,7 +144,7 @@ text-transform: uppercase;
 }
 
 
-.nav-link:hover,.
+.nav-link:hover,
 .nav-link:focus {
 color: #404bbf;
 
@@ -170,10 +171,18 @@ color: #404bbf;
     background-color: #ffff;
 }
 
+h2{
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    text-align: center; 
+    line-height: 1.1;
+}
+
+
 h3 {
     font-size: 20px;
     line-height: 1.2;
-letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
 }
 
 p {
@@ -183,11 +192,7 @@ p {
     letter-spacing: 0.02em;
 }
 
-h3 {
 
-    font-size: 20px;
-    letter-spacing: 0.02em;
-}
 
 
 
