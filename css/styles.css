@@ -32,8 +32,20 @@ background-color: #fff;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-align: center; 
+}
      
     
+
+
+.top-works,
+.top-featur {
+ 
+ font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
 }
 
 ul, ol {
@@ -90,7 +102,7 @@ color: #4d5ae5;
     color: #f4f4fd;
     font-size: 16px;
     letter-spacing: 0.02em;
-    
+    line-height: 1.5;
 
 }
 
